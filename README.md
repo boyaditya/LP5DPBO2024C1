@@ -19,7 +19,7 @@ Program ini dirancang untuk melihat dan mengedit data mahasiswa. Tabel berisi ko
   - "": Kosong
   - "Pendidikan Ilmu Komputer"
   - "Ilmu Komputer"
-- Status, , menggunakan JComboBox yang isinya:
+- Status, menggunakan JComboBox yang isinya:
   - "": Kosong
   - "Belum Lulus"
   - "Lulus"
@@ -57,3 +57,6 @@ Tombol Cancel:
 4. Form akan di-clear, semua field menjadi kosong.
 
 ## Dokumentasi
+
+https://github.com/boyaditya/LP5DPBO2024C1/assets/135103722/aadf88e2-4199-4de0-adc5-2910b4cbe915
+
